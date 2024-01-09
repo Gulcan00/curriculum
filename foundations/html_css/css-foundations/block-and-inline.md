@@ -6,10 +6,10 @@ In the previous lesson, we discovered that different display types have unique b
 
 This section contains a general overview of topics that you will learn in this lesson.
 
-*   You'll learn about "Normal flow".
-*   You'll learn the difference between `block` and `inline` elements.
-*   You'll learn which elements default to `block` and which elements default to `inline`.
-*   You'll learn what divs and spans are.
+*   You will learn about "Normal flow".
+*   You will learn the difference between `block` and `inline` elements.
+*   You will learn which elements default to `block` and which elements default to `inline`.
+*   You will learn what divs and spans are.
 
 ### Block vs inline
 
